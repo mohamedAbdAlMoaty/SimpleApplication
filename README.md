@@ -18,7 +18,7 @@ A Jetpack Compose app that fetches the latest astronomy data from NASA, implemen
 - Coroutines & StateFlow	Live Data Management
 
 ### Supported Android Versions
-- Your app supports devices running Android 7.0 (API 24) and above.
+- App supports devices running Android 7.0 (API 24) and above.
 - It is optimized for Android 13 (API 33).
 
 ### Troubleshooting  
