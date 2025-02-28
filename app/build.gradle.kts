@@ -94,4 +94,18 @@ dependencies {
 
     // Debugging
     debugImplementation("androidx.compose.ui:ui-tooling:1.4.3")
+
+
+    // JUnit for Unit Testing
+    testImplementation("junit:junit:4.13.2")
+
+    // Mocking Framework (Mockito)
+    testImplementation("org.mockito:mockito-core:4.5.1")
+    testImplementation("org.mockito:mockito-inline:4.5.1")
+
+    // Coroutines Testing
+    testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-test:1.7.1")
+
+    // AndroidX Core Testing (For ViewModel)
+    testImplementation("androidx.arch.core:core-testing:2.1.0")
 }
