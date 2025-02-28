@@ -10,12 +10,13 @@ A Jetpack Compose app that fetches the latest astronomy data from NASA, implemen
 - Navigation with Jetpack Navigation Component
 
 ### Dependencies
-- Jetpack Compose	Modern UI Framework
-- Retrofit	API Calls
-- Coil	Image Loading 
-- Navigation Component	Screen Navigation
+- Jetpack Compose
+- Retrofit
+- Coil
+- Navigation Component
 - Gson
-- Coroutines & StateFlow	Live Data Management
+- Coroutines & StateFlow
+- JUnit
 
 ### Supported Android Versions
 - App supports devices running Android 7.0 (API 24) and above.
